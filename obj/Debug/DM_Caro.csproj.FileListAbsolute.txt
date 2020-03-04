@@ -1,0 +1,28 @@
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\bin\Debug\DM[Caro].exe.config
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\bin\Debug\DM[Caro].exe
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\bin\Debug\DM[Caro].pdb
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\DM_Caro.csproj.ResolveComReference.cache
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\DM_Caro_.frmCaRo.resources
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\DM_Caro_.frmLoading.resources
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\DM_Caro_.Properties.Resources.resources
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\DM_Caro.csproj.GenerateResource.Cache
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\DM[Caro].exe
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\DM[Caro].pdb
+C:\Users\Acer\Desktop\DM[Caro]\bin\Debug\DM[Caro].exe.config
+C:\Users\Acer\Desktop\DM[Caro]\bin\Debug\DM[Caro].exe
+C:\Users\Acer\Desktop\DM[Caro]\bin\Debug\DM[Caro].pdb
+C:\Users\Acer\Desktop\DM[Caro]\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Acer\Desktop\DM[Caro]\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Acer\Desktop\DM[Caro]\obj\Debug\DM_Caro.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\DM[Caro]\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Acer\Desktop\DM[Caro]\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Acer\Desktop\DM[Caro]\obj\Debug\DM_Caro.csproj.ResolveComReference.cache
+C:\Users\Acer\Desktop\DM[Caro]\obj\Debug\DM_Caro_.frmCaRo.resources
+C:\Users\Acer\Desktop\DM[Caro]\obj\Debug\DM_Caro_.Properties.Resources.resources
+C:\Users\Acer\Desktop\DM[Caro]\obj\Debug\DM_Caro.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\DM[Caro]\obj\Debug\DM[Caro].exe
+C:\Users\Acer\Desktop\DM[Caro]\obj\Debug\DM[Caro].pdb

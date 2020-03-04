@@ -1,0 +1,15 @@
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\bin\Debug\DM[Caro].exe.config
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\bin\Debug\DM[Caro].exe
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\bin\Debug\DM[Caro].pdb
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\DM[Caro].csprojResolveAssemblyReference.cache
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\DM_Caro_.Properties.Resources.resources
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\DM[Caro].csproj.GenerateResource.Cache
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\DM[Caro].exe
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\DM[Caro].pdb
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\DM_Caro_.frmCaRo.resources
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\DM[Caro].csproj.ResolveComReference.cache
+E:\Project\C Sharp\C Sharp\Source-Caro\NewProject\DEMO\DM[Caro]\obj\Debug\DM_Caro_.frmLoading.resources
